@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Иван Роднов](https://up.htmlacademy.ru/htmlcss/26/user/1133801).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Прусаков](https://htmlacademy.ru/profile/hikikomori)
 
 ---
 
